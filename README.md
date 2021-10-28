@@ -7,6 +7,6 @@ https://www.kaggle.com/cashutosh/gender-classification-dataset
 
 Following 3 files are added in the current repository,
 
- 'gender_classification.ipynb' which is used for training the model.
-  'Gender_class(32x32).h5' is a trained model. 
-  'gender_classifier.py' is used for classification.
+ 1-'gender_classification.ipynb' which is used for training the model.<br>
+ 2-'Gender_class(32x32).h5' is a trained model.<br> 
+ 3-'gender_classifier.py' is used for classification.<br>
